@@ -1,0 +1,15 @@
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/bin/Debug/net7.0/ConnectFour
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/bin/Debug/net7.0/ConnectFour.deps.json
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/bin/Debug/net7.0/ConnectFour.runtimeconfig.json
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/bin/Debug/net7.0/ConnectFour.dll
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/bin/Debug/net7.0/ConnectFour.pdb
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.csproj.AssemblyReference.cache
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.AssemblyInfoInputs.cache
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.AssemblyInfo.cs
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.csproj.CoreCompileInputs.cache
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.dll
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/refint/ConnectFour.dll
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.pdb
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ConnectFour.genruntimeconfig.cache
+/Users/paolalampe/Projects/ConnectFour/ConnectFour/obj/Debug/net7.0/ref/ConnectFour.dll
